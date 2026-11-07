@@ -1,0 +1,10 @@
+{
+  "documents": 100,
+  "tokens": 11588,
+  "vocabulary_size": 5270,
+  "postings_bytes": 99678,
+  "vocabulary_bytes": 521260,
+  "position_base": 1,
+  "indexed_field": "text only; title is metadata",
+  "build_seconds": 0.2882
+}
